@@ -22,4 +22,6 @@ Program ini dibuat untuk menggambar pola bunga atau pola batik dengan rapi.
    ```Terminal 2:
    ros2 run tugasmagang2_turtlesim pola_node
    ```
-   
+
+##Video Penjelasan
+[Link Gdrive](https://drive.google.com/file/d/1v5vEjFOpfK6otUyj9PJxbicU83rhy6zC/view?usp=drive_link)
