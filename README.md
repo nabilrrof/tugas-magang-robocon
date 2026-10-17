@@ -24,4 +24,4 @@ Program ini dibuat untuk menggambar pola bunga atau pola batik dengan rapi.
    ```
 
 ## Video Penjelasan
-[Video Demonstrasi dan Penjelasan Kode Program](https://drive.google.com/file/d/1v5vEjFOpfK6otUyj9PJxbicU83rhy6zC/view?usp=drive_link)
+[Klik disini: Video Demonstrasi dan Penjelasan Kode Program](https://drive.google.com/file/d/1v5vEjFOpfK6otUyj9PJxbicU83rhy6zC/view?usp=drive_link)
